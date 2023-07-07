@@ -14,7 +14,6 @@ const Hero = () => {
           <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-blue-900">
               I am Programmer
-            
             </h1>
 
             <p className="mb-8 leading-relaxed text-justify">I am a skilled programmer with expertise in HTML, CSS, JavaScript, TypeScript, Python, and C++. Over the years, I have developed a strong foundation in programming concepts and methodologies, and I have used my skills to build various applications and websites.</p>
